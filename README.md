@@ -29,7 +29,7 @@ The above mentioned service is an example of which of the following?
 
 Which of the following terms refers to a collection of information that defines or describes the user and his or her interests?
 -----
-Timeline
+* Timeline
 * Account settings
 * *Profile*
 * Facebook group
@@ -84,40 +84,45 @@ Which malware attack was Harry a victim of?
 
 John is an 18 year-old college-going student. He loves to read books and listen to music on his laptop. He regularly downloads e-books and music from the internet. Lately, whenever John has been spending time on his laptop, the laptop begins displaying the infamous Blue Screen of Death (BSOD). Upon taking his laptop to the service center, John was told that his laptop was infected with malware.
 Which symptom of malware infection is John’s laptop displaying?
-Hard drive malfunction
-Slow system
-Unexpected crashes
-Laptop screen malfunction
+------
+* Hard drive malfunction
+* Slow system
+* *Unexpected crashes*
+* Laptop screen malfunction
 
 What does a lock icon symbolize besides a website name?
-The website is not accessible at the moment
-The website needs a password to be accessed
-The website is a secure website
-The website cannot be accessed without the site admin’s permission
+------
+* The website is not accessible at the moment
+* The website needs a password to be accessed
+* *The website is a secure website*
+* The website cannot be accessed without the site admin’s permission
 
 
 Which of the following software programs allows you to access and display web pages on your computer?
-Web browsers
-Search engine
-Extensions
-Email
+------
+* *Web browsers*
+* Search engine
+* Extensions
+* Email
 
 
 Ruth Cole is a sales manager and travels extensively on business. She regularly updates and stores clients’ data on a remote data storage device via the Internet, so that in case she loses her laptop or it crashes for some reason, she does not lose the data which is essential to carrying out her work.
 Which type of data backup is Emma using to carry out her daily work?
-Full system backup
-Online data backup
-Differential backup
-Incremental backup
+------
+* Full system backup
+* *Online data backup*
+* Differential backup
+* Incremental backup
 
 
 
 Susan downloaded a software from the Internet and installed it on her computer for watching movies online. After installing the software, she noticed that her PC was slowing down and was taking more time to open webpages.
 What could Susan do to solve this problem?
-Install a latest antivirus software and scan her computer
-Start using Ethernet
-Stop using wireless internet connection
-Choose a suitable encryption method
+------
+* *Install a latest antivirus software and scan her computer*
+* Start using Ethernet
+* Stop using wireless internet connection
+* Choose a suitable encryption method
 
 
 
@@ -134,41 +139,19 @@ Please click the below link to update your details.
 Proceed to update your account details
 Please contact the ABC Bank customer team in case of any queries. Thank you for your cooperation.
 Which type of email security threat is this? 
-
-Nigerian scam
-Spy-phishing
-Phishing
-Malicious email attachment
-
-
-
-You received the following email from an official claiming to be from your bank.
-Dear ABC Bank User, 
-Since we will be updating our customer database shortly, you are kindly requested to send the following information.
-• Name  
-• Bank login id 
-• Password
-• Branch
-• Date of birth
-• Alternate email
-Please click the below link to update your details.
-Proceed to update your account details
-Please contact the ABC Bank customer team in case of any queries. Thank you for your cooperation.
-Which type of email security threat is this? 
-
-Nigerian scam
-Spy-phishing
-Phishing
-Malicious email attachment
-
-
+-----
+* *Nigerian scam*
+* Spy-phishing
+* Phishing
+* Malicious email attachment
 
 Alex, the coach of Manchester United, called up Wayne, the captain of the team, to discuss the tactics they would employ in the upcoming Champions League Final. The following day, Alex received an email with the transcript of the conversation he had with Wayne. The sender of the email threatened to make Alex’s tactics public, if he did not pay him $5000.
 Which form of mobile device attack was Alex a victim of?
-Eavesdropping
-Phishing
-Social engineering
-Man in the middle attack
+-----
+* Eavesdropping
+* Phishing
+* Social engineering
+* Man in the middle attack
 
 
 
